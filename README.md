@@ -1,16 +1,6 @@
 # GCP_professional_data_engineer-notes
 GCP PDE important points
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@v850 
-v850
-/
+
 GCP_professional_data_engineer-notes
 Public
 Cannot fork because you own this repository and are not a member of any organizations.
@@ -84,18 +74,3 @@ feature engineering:
   
   
   
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-GCP_professional_data_engineer-notes/Notes at main · v850/GCP_professional_data_engineer-notes
