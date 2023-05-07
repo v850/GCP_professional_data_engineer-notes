@@ -71,10 +71,10 @@ feature engineering:
 2. bucketization of continuous feature
 
   
- Transferring from another cloud storage provider Use Storage Transfer Service.
-Transferring less than 1 TB from on-premises Use gsutil.
-Transferring more than 1 TB from on-premises Use Transfer service for on-premises data.
-Transferring less than 1 TB from another Cloud Storage region Use gsutil.
-Transferring more than 1 TB from another Cloud Storage region Use Storage Transfer Service 
+Transferring from another cloud storage provider Use Storage Transfer Service.</br>
+1. Transferring less than 1 TB from on-premises Use gsutil. </br>
+2. Transferring more than 1 TB from on-premises Use Transfer service for on-premises data. </br>
+Transferring less than 1 TB from another Cloud Storage region Use gsutil. </br>
+Transferring more than 1 TB from another Cloud Storage region Use Storage Transfer Service </br> 
   
   
