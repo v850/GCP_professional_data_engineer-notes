@@ -66,6 +66,8 @@ hyperparameter:
 no.of hidden layer
 no of nodes in hidden layer
 
+cloudsql : 30TB
+
 feature engineering:
 1. cross feature column
 2. bucketization of continuous feature
